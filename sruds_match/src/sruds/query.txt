@@ -1,0 +1,1 @@
+If two files on the project classpath have the same name, only the first  file is copied to the lib folder.it has many files in it,the folder is'nt empty.
